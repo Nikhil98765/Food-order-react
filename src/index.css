@@ -14,6 +14,7 @@ body {
   min-height: 100vh;
 }
 
+/* Header css */
 #main-header {
   display: flex;
   justify-content: space-between;
@@ -50,6 +51,7 @@ h1 {
   text-transform: uppercase;
 }
 
+/* meals css */
 #meals {
   width: 90%;
   max-width: 70rem;
@@ -61,6 +63,7 @@ h1 {
   gap: 1rem;
 }
 
+/* Meal item */
 .meal-item {
   background-color: #1d1a16;
   border-radius: 1rem;
@@ -107,6 +110,7 @@ h1 {
   margin-bottom: 1.5rem;
 }
 
+/* Cart */
 .cart h2 {
   margin: 1rem 0;
 }
@@ -178,6 +182,7 @@ h1 {
   color: #ffab04;
 }
 
+/* cart checkout form */
 .control {
   margin: 0.5rem 0;
   display: flex;
